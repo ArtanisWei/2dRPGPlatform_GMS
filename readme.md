@@ -1,4 +1,4 @@
-#2D RPG Platform
+# 2D RPG Platform
 
 This will be a longer-term project
 I hope I can finish it gradually in a few months
